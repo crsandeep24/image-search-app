@@ -6,7 +6,7 @@
     "axios": "^0.21.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "1.1.5",
+    "react-scripts": "5.0.1",
     "unsplash-api": "^1.2.0"
   },
   "scripts": {
